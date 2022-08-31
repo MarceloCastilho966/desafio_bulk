@@ -2,8 +2,9 @@
 
 ## A partir dos repositórios:
 
-https://github.com/paaarx/semantix/raw/master/NASA_access_log_Jul95.gz
-https://github.com/paaarx/semantix/raw/master/NASA_access_log_Aug95.gz
+--> https://github.com/paaarx/semantix/raw/master/NASA_access_log_Jul95.gz
+
+--> https://github.com/paaarx/semantix/raw/master/NASA_access_log_Aug95.gz
 
 ## Responder as perguntas
 
@@ -41,7 +42,8 @@ hdfs dfs -copyFromLocal /home/NASA_access_log_Aug95.gz /user/marcelo/data/desafi
 --------------------------------------------------------------
 
 
-# Após os dados terem sido tratados com a ajuda do Regexp_extract, as respostas para as perguntas puderam ser respondidas:
+## Após os dados terem sido tratados com a ajuda do Regexp_extract, as respostas para as perguntas puderam ser respondidas:
+
 
 ## 1. Número de hosts únicos ?
 137979
